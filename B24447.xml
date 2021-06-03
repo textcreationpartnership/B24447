@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble desires of the gentlemen, free-holders, and inhabitants, of the county and city of Dvrham, and other of the northerne counties, for founding a colledge at Durham. Represented to the high court of Parliament, by their severall petitions: the heads whereof, with the reasons thereunto annexed, are as followeth.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24447</idno><idno type="EEBO-CITATION">99885914</idno>
+  <idno type="VID">188506</idno>
+  <idno type="EEBO-PROQUEST">2240892571</idno>
+  
+            <idno type="STC">Wing H3413</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[2]</idno>
+            <idno type="STC">ESTC R225186</idno>
+            <idno type="PROQUEST">ocm99885914</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885914e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188506)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble desires of the gentlemen, free-holders, and inhabitants, of the county and city of Dvrham, and other of the northerne counties, for founding a colledge at Durham. Represented to the high court of Parliament, by their severall petitions: the heads whereof, with the reasons thereunto annexed, are as followeth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by M[atthew] S[immons],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Universities and colleges --  England --  Durham --  Early works to 1800.</term>
+               <term type="geographic_name">Durham (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:188506:1"/>
+            <head>The Humble DESIRES OF THE Gentlemen, Free-holders, and Inhabitants, of the County and City OF DVRHAM, And other of the Northerne Counties, for Founding a COLLEDGE AT <hi>DƲRHAM.</hi>
+            </head>
+            <head type="sub">Represented to the High Court of Parliament, by their severall Petitions: the Heads whereof, with the Reasons thereunto annexed, are as followeth.</head>
+            <p>
+               <seg rend="decorInit">F</seg>OR indowing of the said Colledge with a competent Revenue of Land: It is humbly desired, That a Debt of 25663 <hi>l.</hi> 13 <hi>s.</hi> 10 <hi>d.</hi> (due by Order of Parliament to the County of <hi>Durham</hi>) may be allow<g ref="char:EOLhyphen"/>ed in purchase of some Lands of the Common-wealths, without doubling of the same: And the said County doth freely release it for the said use; and that the late Cathedrall, and Colledge of the late Deane, and Prebends houses in <hi>Durham,</hi> may be likewise granted for the use aforesaid: the security be<g ref="char:EOLhyphen"/>ing sufficient to satisfie the money borrowed upon <hi>Deans</hi> and <hi>Chapters</hi> Lands; and that certaine Com<g ref="char:EOLhyphen"/>missioners may be appointed in the said Counties, for establishing the Colledge, and the Revenues there<g ref="char:EOLhyphen"/>of, <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith good Orders, and Locall Statutes: for the Reasons and Motives humbly offered to considera<g ref="char:EOLhyphen"/>tion, as followeth.</p>
+            <list>
+               <item>I. THat to allow of the said Debt in Purchase, is consonant with that Justice the Parlianent hath been pleased to afford, for satisfying of the Publique Debts, as well to some Counties and Citties, as to private Persons, and therefore doth not add to the present charge of the Common-wealth.</item>
+               <item>II. That it will be of great advantage to the Northerne Counties, and not of so great detriment to the Southerne Universities; the City of <hi>Durham</hi> being above 150 Miles distant from <hi>Oxford</hi> or <hi>Cambridge,</hi> and is about the Center of the fix Northerne Counties, being about fifty Miles from <hi>Yorke, Lancaster, Rendall, Carlisle,</hi> and <hi>Berwicke,</hi> the chiefe Townes in those Coun<g ref="char:EOLhyphen"/>ties.</item>
+               <item>III. That the Scituation of the said City of <hi>Durham</hi> is pleasant in a wholesome aire, upon a sweet River, that doth neer sur<g ref="char:EOLhyphen"/>round the whole City: and the buildings aforesaid will be suitable for such a work, which to be demolished will be of very small value, there being no vent for the Materialls, most consisting of Stone-work.</item>
+               <item>IV. That it is within seaven miles of <hi>Sunderland,</hi> a Navigable Port at the mouth of the said River, within twelve miles of <hi>New-castle, Hartlepoole,</hi> and <hi>Stockton,</hi> convenient places of Commerce, to have supplies from all parts in the Germane Seas.</item>
+               <item>V. That Provisions of all sorts are plentifull, and Fire-fuell in abundance; by means whereof Parents may at much lesse ex<g ref="char:EOLhyphen"/>pence Educate their Children in Literature, and will much augment the number of Learned Persons, that through po<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> (especially since the late Warres) are disabled to seek their Education at the Southerne Universities: and thereby the <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> parts and industry of meaner persons, doe often become abortive.</item>
+               <item>VI. That formerly many in the Northerne Counties did send their Sons to the Universities in <hi>Scotland,</hi> which it would <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and attract Forreigners to <hi>Durham.</hi>
+               </item>
+               <item>VII. That those who were Educated in the South parts, seldome returned into the North unlesse for meer lucre of some great Preferment: which hath been a means of so few of piety <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good parts in those Countries.</item>
+               <item>VIII. That it is consonant with the present Government of the Common-wealth, equally to diffuse the Learning, Riches, Commerce, and other Publique benefits through the whole Nation.</item>
+               <item>IX. That it is a Laudable and Pious work, and may conduce to stop the mouth of calumny and slander, that endeavour to na<g ref="char:EOLhyphen"/>duce the present Government.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. S.</hi> in the Year 1652.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
